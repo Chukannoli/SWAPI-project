@@ -1,0 +1,27 @@
+@font-face {
+	font-family: starJedi;
+	src: url(/assets/fonts/star_jedi/Starjedi.ttf);
+}
+@font-face {
+	font-family: starJedi-hollow;
+	src: url(/assets/fonts/star_jedi/);
+}
+@font-face {
+	font-family: starJedi-rounded;
+	src: url(/assets/fonts/star_jedi/StarJediRounded.ttf);
+}
+@font-face {
+	font-family: inter;
+	src: url(/assets/fonts/inter/Inter-Regular.ttf);
+	font-weight: 400;
+}
+@font-face {
+	font-family: inter;
+	src: url(/assets/fonts/inter/Inter-Medium.ttf);
+	font-weight: 600;
+}
+@font-face {
+	font-family: inter;
+	src: url(/assets/fonts/inter/Inter-Bold.ttf);
+	font-weight: 900;
+}
